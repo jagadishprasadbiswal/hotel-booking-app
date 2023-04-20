@@ -31,6 +31,7 @@ public class HotelInfo extends AppCompatActivity {
 
     private Toolbar toolbar;
     private ImageView hotelImage;
+    //test
     private TextView hotelDesc, views, drafts, completed;
     private Button book, draftBook;
     private RecommendationAdapter.HotelViewHolder hotelViewHolder;
